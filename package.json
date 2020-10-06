@@ -1,0 +1,22 @@
+{
+  "name": "@ttuanho/math",
+  "version": "0.0.1",
+  "description": "JS library for basic math functions",
+  "main": "base.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ttuanho/math-js.git"
+  },
+  "keywords": [
+    "math"
+  ],
+  "author": "Tuan Ho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ttuanho/math-js/issues"
+  },
+  "homepage": "https://github.com/ttuanho/math-js#readme"
+}
